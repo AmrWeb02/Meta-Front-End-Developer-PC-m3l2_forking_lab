@@ -29,6 +29,7 @@ Read the instructions of this file in the README.md
   - [Atharva Pashankar] (https://github.com/atharvapashankar) Meta Front-End development
   - [Andry RAKOTOSAMIMANANA] (https://github.com/AndryDev007) Meta Front-End development
   - [Ahmad Muawya] (https://github.com/AhmadMuawya) Verssion Control
+  - [Amr] (Planet Earth) Meta Front-End Developer
 - ### **B**
 
   - [Brent](https://github.com/brent0w) Backend Development
